@@ -6,7 +6,7 @@
 
 Try out the web games developed by us at: http://minigameworld.epizy.com
 
-<h5>Follow us on socials</h5>
+#### Follow us on socials
 
 <a href="https://twitter.com/parttimegamer04" target="_blank">
 <img
