@@ -1,4 +1,4 @@
-<h1 align='center'>Mini Game World<h1>
+<h1 align='center'>Mini Game World</h1>
 
 <div align='center'>
 
@@ -6,8 +6,8 @@
 
 Try out the web games developed by us at: http://minigameworld.epizy.com
 
-#### Follow us on socials
 
+Follow us on socials:  
 <a href="https://twitter.com/parttimegamer04" target="_blank">
 <img
  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='twitter' title='twitter' width='50' height='50' />
