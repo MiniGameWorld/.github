@@ -1,20 +1,20 @@
-<h1 align='center'>Mini Game World</h1>
-
 <div align='center'>
-
+<h1>Mini Game World</h1>
 <img src='https://avatars.githubusercontent.com/u/74375261?s=200&v=4' width='500px' alt='MGW logo' />
 
-Try out the web games developed by us at: http://minigameworld.epizy.com
+Try out the web games developed by us at: https://minigameworld.github.io
 
-
-Follow us on socials:  
-<a href="https://twitter.com/parttimegamer04" target="_blank">
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt='twitter' title='twitter' width='50' height='50' />
+<h3>Follow us on socials:</h3>
+<a href="https://twitter.com/MiniGameWorld1">
+ <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png' height=50 width=50 title='twitter' alt='twitter' />
 </a>
-<a href='https://www.facebook.com/Part-Time-Gamer-117209040970515'>
-<img
- src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt='facebook' title='facebook' width='50' height='50' />  
+
+<a href="https://www.facebook.com/Part-Time-Gamer-117209040970515">
+ <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png' height=50 width=50 title'facebook' alt='facebook' />
+</a>
+
+<a href='https://www.instagram.com/mgwdevelopers/'>
+ <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Instagram.png' height=50 width=50 title='instagram' alt='instagram'/>
 </a>
 
 </div>
