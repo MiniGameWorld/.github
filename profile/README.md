@@ -9,7 +9,7 @@ Try out the web games developed by us at: https://minigameworld.github.io
  <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Twitter.png' height=50 width=50 title='twitter' alt='twitter' />
 </a>
 
-<a href="https://www.facebook.com/Part-Time-Gamer-117209040970515">
+<a href="https://www.facebook.com/parttimegamer004">
  <img src='https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Facebook.png' height=50 width=50 title'facebook' alt='facebook' />
 </a>
 
